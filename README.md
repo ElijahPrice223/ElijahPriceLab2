@@ -1,4 +1,4 @@
-[search-result-1.csv](https://github.com/ElijahPrice223/ElijahPriceLab2/files/14154565/search-result-1.csv)# ElijahPriceLab2
+# ElijahPriceLab2
 i: For my topic, I chose to do some searces about car scenes in various large cities accross the U.S. I used city names
   (Seattle 1, Miami 2, Denver 3) to vary the search by region. The keywords I searched with were; car, car scene, race, and car meet.
   
